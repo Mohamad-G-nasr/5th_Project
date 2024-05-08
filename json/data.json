@@ -1,0 +1,199 @@
+[
+    {
+      "id": 1,
+      "img": "images/apple-watch-series-5.png",
+      "title": "Apple Watch Ser-5",
+      "category": "Smart Watches",
+      "price": 25000
+    },
+    {
+      "id": 2,
+      "img": "images/2500OpelGrandland113.jpg",
+      "title": "Opel GrandLand",
+      "category": "SUV Cars",
+      "price": 1000000
+    },
+    {
+      "id": 3,
+      "img": "images/iphone-15-pro-gray.jpg",
+      "title": "Iphone 15 Pro",
+      "category": "Flagship Phones",
+      "price": 50000
+    },
+    {
+      "id": 4,
+      "img": "images/s24-3-1.jpg",
+      "title": "Samsung S24 Ultra",
+      "category": "Flagship Phones",
+      "price": 40000
+    },
+    {
+      "id": 5,
+      "img": "images/5.jpg",
+      "title": "Chevrolet Corvette",
+      "category": "SUV Cars",
+      "price": 2000000
+    },
+    {
+      "id": 6,
+      "img": "images/6.png",
+      "title": "2024 Bronco Sport",
+      "category": "SUV Cars",
+      "price": 2500000
+    },
+    {
+      "id": 7,
+      "img": "images/7.png",
+      "title": "2024 Ford Escape",
+      "category": "SUV Cars",
+      "price": 2000000
+    },
+    {
+      "id": 8,
+      "img": "images/8.jpg",
+      "title": "Lotus Eletre R",
+      "category": "SUV Cars",
+      "price": 2400000
+    },
+    {
+      "id": 9,
+      "img": "images/9.jpg",
+      "title": "Bentley Bentayga",
+      "category": "SUV Cars",
+      "price": 3000000
+    },
+    {
+      "id": 10,
+      "img": "images/10.jpg",
+      "title": "Porsche Cayenne",
+      "category": "SUV Cars",
+      "price": 2900000
+    },
+    {
+      "id": 11,
+      "img": "images/11.jpg",
+      "title": "Ferrari Purosangue",
+      "category": "SUV Cars",
+      "price": 4000000
+    },
+    {
+      "id": 12,
+      "img": "images/12.jpg",
+      "title": "GMC Hummer",
+      "category": "SUV Cars",
+      "price": 4500000
+    },
+    {
+      "id": 13,
+      "img": "images/13.jpg",
+      "title": "Lotus Electro",
+      "category": "SUV Cars",
+      "price": 3800000
+    },
+    {
+      "id": 14,
+      "img": "images/14.jpg",
+      "title": "Kia Seltos",
+      "category": "SUV Cars",
+      "price": 1800000
+    },
+    {
+      "id": 15,
+      "img": "images/15.jpg",
+      "title": "Mercedes-Benz GLC",
+      "category": "SUV Cars",
+      "price": 4000000
+    },
+    {
+      "id": 16,
+      "img": "images/16.jpg",
+      "title": "Oppo Find X5 Pro",
+      "category": "Flagship Phones",
+      "price": 20000
+    },
+    {
+      "id": 17,
+      "img": "images/16 -google pixel 7 pro .jpg",
+      "title": "google pixel 7 pro",
+      "category": "Flagship Phones",
+      "price": 20000
+    },
+    {
+      "id": 18,
+      "img": "images/18.jpg",
+      "title": "Redmi Note 13 Pro",
+      "category": "Flagship Phones",
+      "price": 20000
+    },
+    {
+      "id": 19,
+      "img": "images/19.png",
+      "title": "REDMAGIC 9 Pro",
+      "category": "Flagship Phones",
+      "price": 45000
+    },
+    {
+      "id": 20,
+      "img": "images/20.png",
+      "title": "Xiaomi Pad 6",
+      "category": "Flagship Phones",
+      "price": 18500
+    },
+    {
+      "id": 21,
+      "img": "images/21.jpg",
+      "title": "Honor 90",
+      "category": "Flagship Phones",
+      "price": 23000
+    },
+    {
+      "id": 22,
+      "img": "images/22.png",
+      "title": "OnePlus 12 5G",
+      "category": "Flagship Phones",
+      "price": 44000
+    },
+    {
+      "id": 23,
+      "img": "images/23.png",
+      "title": "POCO X6 5G",
+      "category": "Flagship Phones",
+      "price": 16000
+    },
+    {
+      "id": 24,
+      "img": "images/24.jpg",
+      "title": "Realme Watch",
+      "category": "Smart Watches",
+      "price": 1600
+    },
+    {
+      "id": 25,
+      "img": "images/25.jpg",
+      "title": "Huawei Watch Fit 2",
+      "category": "Smart Watches",
+      "price": 5000
+    },
+    {
+      "id": 26,
+      "img": "images/26.jpg",
+      "title": "Huawei Band 8",
+      "category": "Smart Watches",
+      "price": 2000
+    },
+    {
+      "id": 27,
+      "img": "images/27.jpg",
+      "title": "Amazfit GTS 2",
+      "category": "Smart Watches",
+      "price": 4000
+    },
+    {
+      "id": 28,
+      "img": "images/28.jpg",
+      "title": "Amazfit Bip 3",
+      "category": "Smart Watches",
+      "price": 2000
+    }
+]
+

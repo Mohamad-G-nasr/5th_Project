@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Market Main Page</title>
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+    <header>
+        <div class="navbar">
+            <a href="index.html">
+                <i class="fa-brands fa-shopware"></i>
+                ShopWare
+            </a>
+
+            <div>
+                <select id="DropDown">
+                    <option value="title">Search by Title</option>
+                    <option value="category">Search by Category</option>
+                </select>
+    
+                <input type="search" class="search"  id="search" placeholder="Search Products" onkeyup="Search()">
+            </div>
+
+            <ul>
+                <li><a id="Name" href="#"></a></li>
+                <li id="login"><a href="login.html">Login</a></li>
+                <li class="ShoppingCart">
+                    <a id="theCart" href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+                    <span class="Prod_num"></span>
+                    <div class="Products" style = "display: none;">
+                        <div id="Products"></div>
+                        <h2 class="go_to_cart">
+                            <P><b>Total Price: </b><span id="Price"></span></P><hr>
+                            <a href="cart.html">View All Products</a>
+                        </h2>
+                    </div>
+                </li>
+                <li id="register"><a href="register.html">Sign-up</a></li>
+                <li id="logout" style="display: none;"><a href="register.html">Sign out</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <section>
+        <div class="container"></div>
+    </section>
+
+    <script src="js/script.js"></script>
+
+  </body>
+</html>
